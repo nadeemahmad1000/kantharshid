@@ -1,5 +1,4 @@
--content
- blockquote
-(::-webkit-input-placeholder)
- -content
-display 
+-content{
+    display: flex;
+}
+ 
