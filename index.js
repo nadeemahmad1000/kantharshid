@@ -1,0 +1,2 @@
+JSON(KeyframeEffect)
+JSON(MediaCapabilities)
